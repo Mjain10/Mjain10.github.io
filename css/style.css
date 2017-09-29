@@ -1,0 +1,55 @@
+.bg {
+    background-image: url('../images/earth.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+nav {
+    text-align: center;
+    background-color: white;
+    font-family: Pokemon GB;
+    font-size: 15px;
+    color: darkslategrey;
+    margin: 0;
+    overflow: hidden;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+
+nav > ul > li > a {
+    color: #3c5aa6;
+    background-color: white;
+    display: block;
+    line-height: 2em;
+    padding: 0.5em 1em;
+    text-decoration: none;
+}
+
+
+h1 {
+    font-family: Pokemon GB;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 100px;
+    color: white;
+}
+
+p {
+    font-family: Pokemon GB;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    margin-top: 30x;
+    padding: 100px 300px;
+    line-height: 40px;
+}
